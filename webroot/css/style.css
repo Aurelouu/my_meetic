@@ -1,0 +1,113 @@
+.hidden{
+    display:none;
+}
+
+.error-message{
+    color:red;
+}
+
+h1 {
+font-style: italic;
+text-align: center;
+color:coral;
+background-color:blanchedalmond;
+}
+body {
+   background-image: url(love.png);
+}
+
+p {
+    color:purple;
+    margin-left:20%;
+    font-style:italic;
+
+}
+a {
+    margin-left:25%;
+}
+
+h3{
+    font-size:large;
+    margin-left:46%;
+    line-height: 2;
+}
+#nom {
+    margin-left:754px;
+    font-size:13px;
+    
+}
+#prenom {
+    margin-left:755px;
+    font-size:13px;
+}
+#date{
+    margin-left:795px;
+    font-size:13px;
+}
+#genre{
+    margin-left:783px;
+    font-size:13px;
+}
+#ville{
+    margin-left:755px;
+    font-size:13px;
+}
+#mail {
+    margin-left:753px;
+    font-size:13px;
+}
+#passw {
+    margin-left:753px;
+    font-size:13px;
+}
+#loisir {
+    margin-left:753px;
+    font-size:13px;
+}
+input[type="submit"] {
+    cursor: pointer;
+    margin-left:46%;
+    line-height: 25px;
+    background: coral;
+    color:black;
+}
+input[type="text"]{
+    margin-left: 41%;
+    
+}
+form label {
+    display: inline-block;
+    margin:15px;
+}
+h2 {
+    font-size:large;
+    margin-left:46%;
+    line-height: 2;
+}
+#email {
+    margin-left:41%;
+    font-size:13px;
+}
+#mot_de_passe {
+    margin-left:41%;
+    font-size:13px;
+}
+h6 {
+    font-size: 56px;
+    text-align:center;
+    color:cornsilk;
+    background: bisque;
+    margin-top:18%;
+    border: 3px solid black;
+}
+h5 {
+    text-align: center;
+    font-size:25px;
+    color:grey;
+}
+h3 {
+    margin:70px;
+    border-style: groove;
+    text-align: center;
+    font-size:25px;
+}
